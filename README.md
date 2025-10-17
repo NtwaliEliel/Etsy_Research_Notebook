@@ -1,9 +1,9 @@
 # Predicting Etsy Shop Success: A Comparative Study of Machine Learning and Deep Learning Approaches
 
-**Author:** [Your Name]  
+**Author:** Eliel Ntwali
 **Course:** Introduction to Machine Learning  
-**Institution:** [Your University]  
-**Date:** [Current Date]
+**Institution:** African Leadership University  
+**Date:** 17 OCTOBER 2025
 
 ---
 
